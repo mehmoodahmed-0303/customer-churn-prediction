@@ -1,0 +1,8 @@
+streamlit
+pandas
+scikit-learn==1.7.0
+<<<<<<< HEAD
+joblib
+=======
+joblib
+>>>>>>> 9434f85 (Added requirements.txt to local files)
