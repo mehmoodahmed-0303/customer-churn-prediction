@@ -74,7 +74,7 @@ streamlit run app.py
 ```
 
 ### 🌐 Access the Web App
-👉 https://customerchurnprediction1318.streamlit.app/#customer-churn-prediction
+👉 https://customer-churn-prediction-1318.streamlit.app/
 
 ### 🙋‍♂️ About the Author
 Mehmood Ahmed
